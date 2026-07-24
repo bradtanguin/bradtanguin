@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I am Brad! <br/>
 
-<!--
-**bradtanguin/bradtanguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🧪 Chemical Engineer | ⚗️ Chemical Technician | 🤖 AI/ML Enthusiast | 📊 Data & Engineering Analytics
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Machine Learning Projects: </h2>
+
+- <b>Machine Learning-Based Prediction of Influent Chemical Oxygen Demand for Food-to-Microorganism Ratio Estimation Optimizing Sludge Propagation</b>
+  - [Process Optimization Using Machine Learning and Time-series Forecasting]()
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/bradly-tanguin-422832367/
