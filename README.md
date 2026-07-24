@@ -1,7 +1,14 @@
-<h1>Hi, I am Brad! <br/>
+<h1>Hi, I'm Brad! 👋</h1>
 
-  🧪 Chemical Engineer | ⚗️ Chemical Technician | 🤖 AI/ML Enthusiast | 📊 Data & Engineering Analytics
+<h3>
+🧪 Registered Chemical Engineer | ⚗️ Registered Chemical Technician | 🤖 AI/ML Enthusiast
+</h3>
 
+<p>
+Bridging Chemical and Process Engineering with Artificial Intelligence, 
+Machine Learning, and Data Analytics to develop data-driven solutions 
+for engineering applications.
+</p>
 
 <h2>👨‍💻 Machine Learning Projects: </h2>
 
@@ -10,6 +17,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/bradly-tanguin-422832367/
