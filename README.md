@@ -14,9 +14,3 @@ for engineering applications.
 
 - <b>Machine Learning-Based Prediction of Influent Chemical Oxygen Demand for Food-to-Microorganism Ratio Estimation Optimizing Sludge Propagation</b>
   - [Process Optimization Using Machine Learning and Time-series Forecasting](https://github.com/bradtanguin/cod-prediction-process-stabilization)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Brad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/bradly-tanguin-422832367/
