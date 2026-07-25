@@ -13,7 +13,7 @@ for engineering applications.
 <h2>👨‍💻 Machine Learning Projects: </h2>
 
 - <b>Machine Learning-Based Prediction of Influent Chemical Oxygen Demand for Food-to-Microorganism Ratio Estimation Optimizing Sludge Propagation</b>
-  - [Process Optimization Using Machine Learning and Time-series Forecasting]()
+  - [Process Optimization Using Machine Learning and Time-series Forecasting](https://github.com/bradtanguin/cod-prediction-process-stabilization)
 
 <h2> 🤳 Connect with me:</h2>
 
