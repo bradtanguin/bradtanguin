@@ -1,5 +1,3 @@
-<h1>Hi, I'm Brad! 👋</h1>
-
 <h3>
 🧪 Registered Chemical Engineer | ⚗️ Registered Chemical Technician | 🤖 AI/ML Enthusiast
 </h3>
