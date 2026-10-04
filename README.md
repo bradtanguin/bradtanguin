@@ -14,4 +14,4 @@ for engineering applications.
   - [Process Optimization Using Machine Learning and Time-series Forecasting](https://github.com/bradtanguin/cod-prediction-process-stabilization)
   - 
 - <b>Predictive Modeling for Budgetary Cost Estimation of Wastewater Treatment Plant Projects</b>
-  - [Process Optimization Using Machine Learning and Time-series Forecasting](https://github.com/bradtanguin/cod-prediction-process-stabilization)
+  - [Budgetary Cost Estimation of Wastewater Treatment Projects](https://github.com/bradtanguin/design-cost-prediction)
